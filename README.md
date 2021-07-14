@@ -18,3 +18,10 @@ Description: I created a batch script to ping a printer based off the host name,
 The script would ask for the number identifier of the printer and then after the user inputted the identifier it would ping the hostname once to see if it was online and then give options to ping a different printer, go to the embedded website of the printer or to exit.
 If they selected the web app it would open IE and go to the host name.
 I made this script to assist both the help desk and desktop support to correctly identify the issue with the printer supply so we reduced misinformation.
+
+File: PrinterPing.ps1
+
+Made in: PowerShell
+
+Description: I converted my batch script to PowerShell for added user interface changes and limit what could be put in the option field.
+Please see description for printerping.bat for more information about this as it does the same thing just a different language.

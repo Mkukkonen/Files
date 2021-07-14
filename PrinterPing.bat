@@ -1,10 +1,7 @@
 @echo off
-Color 0a
 
 :Start
 cls
-echo                               PRINTER PING UTILITY
-echo                         TRADEMARK ROBCO SYSTEMS 2060-2075 
 echo.
 echo.
 echo.

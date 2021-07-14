@@ -1,7 +1,7 @@
 # Files
 Files that I worked on
 
-File: Quick Mileage.ods
+File: Quick Mileage.xlsx
 Description: I modified a simple mileage form that the school district I was an IT Aid for to automate and simplify calculating mileage from building to building. 
 I was able to find the miles in a PDF provided by the district and converted it to a spreadsheet. I then used vlookup and validation based off the acronym of the building to find the distance between those two points.
 I then made it so it would add up those lookups for each line and then it would auto calculate based off of the value placed in B34.

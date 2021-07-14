@@ -2,6 +2,7 @@
 Files that I worked on
 
 File: Quick Mileage.xlsx
+
 Made In: Google Sheets
 
 Description: I modified a simple mileage form that the school district I was an IT Aid for to automate and simplify calculating mileage from building to building. 
@@ -10,6 +11,7 @@ I then made it so it would add up those lookups for each line and then it would 
 It would then subtotal the values and update the amount to be reimbursed. It then could be printed out and handed to the director's assistant who would then approve and submit the request.
 
 File: PrinterPing.bat
+
 Made in: Notepad++
 
 Description: I created a batch script to ping a printer based off the host name, which at this company I was working at had a set naming convention that simplified the code but using 4 digits to differentiate the printers.
